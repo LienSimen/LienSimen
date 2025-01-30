@@ -1,6 +1,6 @@
 ### Welcome
 
-- 🔭 I’m currently working on my Javascript, HTML and CSS making apps connected to a database to further improve both my front and backend skills.
+- 🔭 Currently working on backend with Kodehode, using c#.
 
 - 📫 How to reach me: Can reach me on Discord: liensimen or via [Email](mailto:Simenli123@hotmail.com)
 
