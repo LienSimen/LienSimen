@@ -25,11 +25,11 @@ It uses OCR for data extraction and works for any expansion, and it's made so I 
 - Reason for making the bot is my own attempt at intelligence. I still have so much to learn, but I hope I can create something that solves its own tasks in a living world with basic instructions. I already have it figured out how the eyes (image recognition) can easily train itself, as pictures it takes of NPCs can be confirmed via the database so the vision will gradually improve without any human feedback.
 - The brain part is the real challenge, but first instinct here would be a personally trained LLM with all WoW data available. This wouldn't make it any intelligent—just knowledgeable. But perhaps that is also essential for intelligence, and a fundamental starting point for it to evolve.
 - I chose an MMO because it best mimics our world. Its universe, like our own, serves as the lens through which it experiences reality. This lets me bypass challenges of material creation, and I can focus on the brain.
-- 
+  
 <details>
   <summary>Click to view GIF</summary>
 
-  ![GIF](https://s6.ezgif.com/tmp/ezgif-6c1390dbf40d7a.gif)
+  https://s6.ezgif.com/tmp/ezgif-6c1390dbf40d7a.gif
 
 </details>
 
