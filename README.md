@@ -1,11 +1,44 @@
 ### Welcome
 
-- Currently working on backend with Kodehode, using c#.
+**Currently working on:** Backend development using C#.
 
-- Created image recognition on wow, scraped data from the net, rendered models on blender. Used this on my own bot, on my own private server as this was for educational purposes only. Tasks it can do: Farm npcs, vendor, deathrun, change zones(!), create path profiles, create combat routine, image recognition for object avoidance or targeting, target confirmation via database, unstuck features and much more. It uses OCR for data extraction and works for any expansion and its made so I can basically use it for any game where I can extract certain values (like hp/mana).
+#### Bot Project: WoW Intelligence Bot
 
-- Created AH Sniper addons, quickest on the marked.
+Created image recognition on WoW, scraped data from the net, extracted and rendered models on Blender. Used this on my own bot, on my own private server as this was for educational purposes only. It will be doing all training on a [single player](https://github.com/celguar/spp-classics-cmangos) server where it can interact with other bots.
 
+**Capabilities:**
+- Farm NPCs
+- Vendor
+- Deathrun
+- Change zones (!)
+- Create path profiles
+- Create combat routine
+- Change combat routine while running
+- Image recognition for object avoidance or targeting
+- Target confirmation via database
+- Unstuck features
+- And much more!
+
+It uses OCR for data extraction and works for any expansion, and it's made so I can basically use it for any game where I can extract certain values (like hp/mana).
+
+**Additional Notes:**
+- Reason for making the bot is my own attempt at intelligence. I still have so much to learn, but I hope I can create something that solves its own tasks in a living world with basic instructions. I already have it figured out how the eyes (image recognition) can easily train itself, as pictures it takes of NPCs can be confirmed via the database so the vision will gradually improve without any human feedback.
+- The brain part is the real challenge, but first instinct here would be a personally trained LLM with all WoW data available. This wouldn't make it any intelligent—just knowledgeable. But perhaps that is also essential for intelligence, and a fundamental starting point for it to evolve.
+- I chose an MMO because it best mimics our world. Its universe, like our own, serves as the lens through which it experiences reality. This lets me bypass challenges of material creation, and I can focus on the brain.
+- 
+<details>
+  <summary>Click to view GIF</summary>
+
+  ![GIF](https://s6.ezgif.com/tmp/ezgif-6c1390dbf40d7a.gif)
+
+</details>
+
+#### AH Sniper Addon
+
+Created the fastest (legal) AH Sniper addon.
+- Saved a lot of milliseconds, but like most "trading bots" you quickly reach peak speed and further improvements hinge on latency.
+
+  
 - How to reach me: Can reach me on Discord: liensimen or via [Email](mailto:Simenli123@hotmail.com)
 
 
