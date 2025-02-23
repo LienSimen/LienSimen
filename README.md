@@ -3,8 +3,7 @@
 **Currently working on:** Backend development using C#.
 
 #### Bot Project: WoW Intelligence Bot
-
-Created image recognition on WoW, scraped data from the net, extracted and rendered models on Blender. Used this on my own bot, on my own private server as this was for educational purposes only. It will be doing all training on a [single player](https://github.com/celguar/spp-classics-cmangos) server where it can interact with other bots.
+For educational purposes. It plays on a [single player](https://github.com/celguar/spp-classics-cmangos) server where it can interact with other bots.
 
 **Capabilities:**
 - Farm NPCs
@@ -22,9 +21,9 @@ Created image recognition on WoW, scraped data from the net, extracted and rende
 It uses OCR for data extraction and works for any expansion, and it's made so I can basically use it for any game where I can extract certain values (like hp/mana).
 
 **Additional Notes:**
-- Reason for making the bot is my own attempt at intelligence. I still have so much to learn, but I hope I can create something that solves its own tasks in a living world with basic instructions. I already have it figured out how the eyes (image recognition) can easily train itself, as pictures it takes of NPCs can be confirmed via the database so the vision will gradually improve without any human feedback.
+- Reason for making the bot is my own attempt at intelligence. I still have so much to learn, but I hope I can create something that solves its own tasks in a living world with basic instructions. I already have it figured out how the eyes (image recognition) can easily train itself, as pictures it takes of NPCs can be confirmed via the database so the vision will gradually improve without any human feedback. Ive given it basic knowledge of NPCs by scraping pictures of all models from the net. Also some additional textures and buildings by extracting models and projecting them on blender.
 - The brain part is the real challenge, but first instinct here would be a personally trained LLM with all WoW data available. This wouldn't make it any intelligent—just knowledgeable. But perhaps that is also essential for intelligence, and a fundamental starting point for it to evolve.
-- I chose an MMO because it best mimics our world. Its universe serves as the lens through which it perceives reality. This lets me skip the material creation and focus on the intelligence.
+- I chose an MMO because I know it very well. The bot will perceive that world as reality just like we do our own and I can skip the material creation.
   
 #### AH Sniper Addon
 
