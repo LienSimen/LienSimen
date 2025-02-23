@@ -18,7 +18,7 @@ For educational purposes. It plays on a [single player](https://github.com/celgu
 - Unstuck features
 - And much more!
 
-It uses OCR for data extraction and works for any expansion, and it's made so I can basically use it for any game where I can extract certain values (like hp/mana).
+It uses OCR for data extraction, which is horribly inefficient compared to other methods, but its fun to tackle ways to improve it.
 
 **Additional Notes:**
 - Reason for making the bot is my own attempt at intelligence. I still have so much to learn, but I hope I can create something that solves its own tasks in a living world with basic instructions. I already have it figured out how the eyes (image recognition) can easily train itself, as pictures it takes of NPCs can be confirmed via the database so the vision will gradually improve without any human feedback. Ive given it basic knowledge of NPCs by scraping pictures of all models from the net. Also some additional textures and buildings by extracting models and projecting them on blender.
@@ -29,7 +29,6 @@ It uses OCR for data extraction and works for any expansion, and it's made so I 
 
 Created the fastest (legal) AH Sniper addon.
 - Saved a lot of milliseconds, but like most "trading bots" you quickly reach peak speed and further improvements hinge on latency.
-
 
   
 How to reach me: Can reach me on Discord: liensimen or via [Email](mailto:Simenli123@hotmail.com)
