@@ -2,7 +2,7 @@
 
 **Currently working on:** Backend development using C#.
 
-#### Bot Project: WoW Intelligence Bot
+#### Bot Project
 For educational purposes. It plays on a [single player](https://github.com/celguar/spp-classics-cmangos) server where it can interact with other bots.
 
 **Capabilities:**
