@@ -27,7 +27,7 @@ It uses OCR(Optical character recognition) for data extraction, and image recogn
 
 ### AH Sniper Addon
 
-Got annoyed that I was on broadband so made an addon that snipes auctions very fast. 
+Got annoyed that I was on broadband so made an addon that snipes auctions very fast. Woke me up to the power of creating a personalized addon that dont have to account for anything that would slow it down.
 
 
 How to reach me: Can reach me on Discord: liensimen or via [Email](mailto:Simenli123@hotmail.com)
