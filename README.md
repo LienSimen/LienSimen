@@ -12,18 +12,6 @@ It uses OCR(Optical character recognition) for data extraction, and image recogn
 - Reason for making the bot is my own attempt at intelligence. I still have so much to learn, but I hope I can create something that solves its own tasks in a digital world with basic instructions. I already have it figured out how the eyes (image recognition) can easily train itself, as pictures it takes of NPCs can be confirmed via the database so the vision will gradually improve without any human feedback. Ive given it basic knowledge of NPCs by scraping pictures of all models from the net. Also some additional textures and buildings by extracting models and projecting them on blender.
 - The brain part is the real challenge, but first instinct here would be a personally trained LLM with all WoW data available. This wouldn't make it any intelligent—just knowledgeable. But perhaps that is also essential for intelligence, and a fundamental starting point for it to evolve.
 - An MMO is ideal because its world acts as a lens for how the bot perceive reality so I dont have to worry about material creation.
-  
-  **Capabilities:**
-- Farm NPCs
-- Vendor
-- Deathrun
-- Change zones
-- Create path profiles
-- Create combat routine
-- Change combat routine while running
-- Image recognition for object avoidance or targeting
-- Target confirmation via database
-- Unstuck features
 
 ### AH Sniper Addon
 
