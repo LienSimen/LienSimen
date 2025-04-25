@@ -915,16 +915,23 @@ endsolid welcome_cylindrical
 
 Currently working on Backend using c#. Coding is hard. When it gets confusing I try to tell myself there is only setting variables, writing to variables and conditional branching. The rest is syntax sugar. 
 
+
 # Projects
 
+### P2P Chat app
+Good lesson in network and security and why server-client is prefered as its safer with a trusted middle man. 
+
+### WoW Server
+Always having fun creating different [WoW servers](https://github.com/cmangos). Exploring the databases, creating new spells, items, npcs etc. I feel its the best way to get comfortable with programs such as Docker, (MY)SQL and XAMPP in a playground where im not afraid do things wrong.
+
 ### WoW Bot
-For educational purposes. It plays on a [single player](https://github.com/celguar/spp-classics-cmangos) server where it can interact with other bots.
+For educational purposes. It plays on my single player server where it can interact with other bots.
 
 It uses OCR(Optical character recognition) for data extraction, and image recognition for terrain avoidance and npc detection. Both horribly inefficient compared to other methods, but its fun to tackle ways to improve it. And it fascinates me how we can take multiple snapshots of numbers, letters, NPCs and obstacles every second, translate it to actionable data, and use it for real-time decisions. Now thanks to cuda us casuals can have fun with image recognition training and OCR with our gaming GPUs.
 
 ### AH Sniper Addon
 
-Got annoyed that I was on broadband so made an addon that snipes auctions very fast. Woke me up to the power of creating a personalized addon that dont have to account for anything that would slow it down.
+Made an addon that snipes auctions very fast. Woke me up to the power of creating a personalized addon that dont have to account for anything that would slow it down.
 
 
 How to reach me: Can reach me on Discord: liensimen or via [Email](mailto:Simenli123@hotmail.com)
