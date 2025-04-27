@@ -1,8 +1,9 @@
 ```stl
 solid welcome_cylindrical
 
+  
   // Letter W
-
+  
   // Front Faces
   facet normal 0 0 1
     outer loop vertex 0.0 1.5 0.2 vertex 0.0 0.0 0.2 vertex 0.2 1.5 0.2 endloop endfacet
@@ -38,7 +39,7 @@ solid welcome_cylindrical
   facet normal 0 0 -1
     outer loop vertex 0.8 0.0 0.0 vertex 0.5 0.5 0.0 vertex 0.8 0.2 0.0 endloop endfacet
   // Side Faces
-  // Side facets for W - Triangle 1 d 
+  // Side facets for W - Triangle 1
   facet normal 0 -1 0
     outer loop vertex 0.0 1.5 0.2 vertex 0.0 0.0 0.0 vertex 0.0 0.0 0.2 endloop endfacet
   facet normal 0 -1 0
@@ -51,7 +52,7 @@ solid welcome_cylindrical
     outer loop vertex 0.2 1.5 0.2 vertex 0.0 1.5 0.0 vertex 0.0 1.5 0.2 endloop endfacet
   facet normal 1 0 0
     outer loop vertex 0.2 1.5 0.2 vertex 0.2 1.5 0.0 vertex 0.0 1.5 0.0 endloop endfacet
-  // Side facets for W - Triangle 2 r
+  // Side facets for W - Triangle 2
   facet normal -1 0 0
     outer loop vertex 0.2 1.5 0.2 vertex 0.0 0.0 0.0 vertex 0.0 0.0 0.2 endloop endfacet
   facet normal -1 0 0
@@ -64,7 +65,7 @@ solid welcome_cylindrical
     outer loop vertex 0.2 0.0 0.2 vertex 0.2 1.5 0.0 vertex 0.2 1.5 0.2 endloop endfacet
   facet normal 1 0 0
     outer loop vertex 0.2 0.0 0.2 vertex 0.2 0.0 0.0 vertex 0.2 1.5 0.0 endloop endfacet
-  // Side facets for W - Triangle 3 a
+  // Side facets for W - Triangle 3
   facet normal -1 0 0
     outer loop vertex 0.8 1.5 0.2 vertex 0.8 0.0 0.0 vertex 0.8 0.0 0.2 endloop endfacet
   facet normal -1 0 0
@@ -77,7 +78,7 @@ solid welcome_cylindrical
     outer loop vertex 1.0 1.5 0.2 vertex 0.8 1.5 0.0 vertex 0.8 1.5 0.2 endloop endfacet
   facet normal 1 0 0
     outer loop vertex 1.0 1.5 0.2 vertex 1.0 1.5 0.0 vertex 0.8 1.5 0.0 endloop endfacet
-  // Side facets for W - Triangle 4 g
+  // Side facets for W - Triangle 4
   facet normal -1 0 0
     outer loop vertex 1.0 1.5 0.2 vertex 0.8 0.0 0.0 vertex 0.8 0.0 0.2 endloop endfacet
   facet normal -1 0 0
@@ -90,7 +91,7 @@ solid welcome_cylindrical
     outer loop vertex 1.0 0.0 0.2 vertex 1.0 1.5 0.0 vertex 1.0 1.5 0.2 endloop endfacet
   facet normal 1 0 0
     outer loop vertex 1.0 0.0 0.2 vertex 1.0 0.0 0.0 vertex 1.0 1.5 0.0 endloop endfacet
-  // Side facets for W - Triangle 5 e
+  // Side facets for W - Triangle 5
   facet normal 0 -1 0
     outer loop vertex 0.2 0.0 0.2 vertex 0.4 0.0 0.0 vertex 0.4 0.0 0.2 endloop endfacet
   facet normal 0 -1 0
@@ -903,6 +904,7 @@ solid welcome_cylindrical
     outer loop vertex 7.4 0.85 0.2 vertex 8.0 0.65 0.0 vertex 8.0 0.65 0.2 endloop endfacet
   facet normal -0.316 -0.949 0
     outer loop vertex 7.4 0.85 0.2 vertex 7.4 0.85 0.0 vertex 8.0 0.65 0.0 endloop endfacet
+
 
 endsolid welcome_cylindrical
 ```
