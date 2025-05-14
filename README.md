@@ -912,7 +912,7 @@ endsolid welcome_cylindrical
 
 ### Welcome
 
-Currently working on Backend using c#. Coding is hard. When it gets confusing I try to tell myself there is only setting variables, writing to variables and conditional branching. The rest is syntax sugar. 
+Currently working on Backend using C#. Coding is har, when it gets confusing I try to tell myself there is only setting variables, writing to variables and conditional branching. The rest is syntax sugar. 
 
 
 # Projects
